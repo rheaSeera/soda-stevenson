@@ -14,7 +14,7 @@ export default function Hero() {
       <div className="absolute inset-0 bg-black bg-opacity-50 flex flex-col justify-center items-center text-white">
         <h1 className="text-5xl font-bold mb-4">Join Stevenson SODA</h1>
         <p className="text-lg mb-6 max-w-xl text-center">
-          Empowering students to advocate for organ, eye, and tissue donation through education and registration drives.
+          Empowering students to advocate for organ, eye, and tissue donation through education and registration drives and fundraising events.
         </p>
         <Link href="/get-involved">
           <button className="px-8 py-3 bg-blue-600 hover:bg-blue-700 rounded-lg text-xl">
